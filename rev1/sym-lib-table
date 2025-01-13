@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "13dof_imu")(type "KiCad")(uri "${KIPRJMOD}/lib/Symbols/13dof_imu.kicad_sym")(options "")(descr ""))
+  (lib (name "Common")(type "KiCad")(uri "${KIPRJMOD}/lib/Symbols/Common.kicad_sym")(options "")(descr ""))
+)
