@@ -11,8 +11,7 @@
 <h2>Rendered Image</h2>
 <img src="rev1\Images\rendered.png" width="300"/>
 <h2>Front and Back Side</h2>
-<img src="rev1\Images\Front.png" width="200"/>
-<img src="rev1\Images\Back.png"width="200"/>
+<img src="rev1\Images\Front.png" width="200"/><img src="rev1\Images\Back.png"width="200"/>
 
 ## License
 Resources of this repository are distributed under MIT License. 
